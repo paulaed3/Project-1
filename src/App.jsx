@@ -1,5 +1,5 @@
 import Navbar from "./components/Layout/Navbar";
-import ItemListContainer from "./components/pages/itemListContainer/ItemListContainer";
+import ItemListContainer from "./components/pages/ItemListContainer/ItemListContainer";
 
 function App() {
   let nombre = "Paula";
